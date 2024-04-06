@@ -1,5 +1,9 @@
 {
   "item.pillowcore.raw_tanzanite": "Raw Tanzanite",
   "item.pillowcore.tanzanite": "Tanzanite",
-  "itemGroup.pillowcore.tanzanite_group": "Tanzanite"
+  "itemGroup.pillowcore.tanzanite_group": "Tanzanite",
+
+  "block.pillowcore.tanzanite_block": "Tanzanite Block",
+  "block.pillowcore.tanzanite_ore": "Tanzanite Ore",
+  "block.pillowcore.tanzanite_deepslate_ore": "Tanzanite Deepslate Ore"
 }

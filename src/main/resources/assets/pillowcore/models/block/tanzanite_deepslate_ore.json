@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pillowcore:block/tanzanite_deepslate_ore"
+  }
+}
