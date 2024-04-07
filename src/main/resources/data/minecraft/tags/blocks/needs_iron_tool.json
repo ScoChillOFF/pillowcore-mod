@@ -1,0 +1,8 @@
+{
+  "replace": "false",
+  "values": [
+    "pillowcore:tanzanite_ore",
+    "pillowcore:deepslate_tanzanite_ore",
+    "pillowcore:tanzanite_block"
+  ]
+}
