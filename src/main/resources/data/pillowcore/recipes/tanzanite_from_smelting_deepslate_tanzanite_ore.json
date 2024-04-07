@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "pillowcore:deepslate_tanzanite_ore"
+  },
+  "result": "pillowcore:tanzanite"
+}

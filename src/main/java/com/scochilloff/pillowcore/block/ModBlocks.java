@@ -9,7 +9,6 @@ import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.math.intprovider.UniformIntProvider;
 
 public class ModBlocks {
 
@@ -19,7 +18,7 @@ public class ModBlocks {
     public static final Block TANZANITE_ORE = registerBlock("tanzanite_ore",
             new Block(FabricBlockSettings.create().strength(4.0f).requiresTool()));
 
-    public static final Block TANZANITE_DEEPSLATE_ORE = registerBlock("tanzanite_deepslate_ore",
+    public static final Block DEEPSLATE_TANZANITE_ORE = registerBlock("deepslate_tanzanite_ore",
             new Block(FabricBlockSettings.create().strength(4.0f).requiresTool()));
 
     private static Block registerBlock(String name, Block block) {

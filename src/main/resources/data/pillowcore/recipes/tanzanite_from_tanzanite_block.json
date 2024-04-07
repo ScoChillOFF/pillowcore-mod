@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pillowcore:tanzanite_block"
+    }
+  ],
+  "result": {
+    "item": "pillowcore:tanzanite",
+    "count": 9
+  }
+}

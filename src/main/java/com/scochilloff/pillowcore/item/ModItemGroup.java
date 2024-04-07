@@ -21,7 +21,7 @@ public class ModItemGroup {
                 entries.add(ModItems.TANZANITE);
                 entries.add(ModBlocks.TANZANITE_BLOCK);
                 entries.add(ModBlocks.TANZANITE_ORE);
-                entries.add(ModBlocks.TANZANITE_DEEPSLATE_ORE);
+                entries.add(ModBlocks.DEEPSLATE_TANZANITE_ORE);
             })
             .build());
 

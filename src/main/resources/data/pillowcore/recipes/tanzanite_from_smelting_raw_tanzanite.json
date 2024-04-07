@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experinece": 0.7,
+  "ingredient": {
+    "item": "pillowcore:raw_tanzanite"
+  },
+  "result": "pillowcore:tanzanite"
+}
