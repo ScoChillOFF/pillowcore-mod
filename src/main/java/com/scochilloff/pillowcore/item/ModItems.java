@@ -1,6 +1,7 @@
 package com.scochilloff.pillowcore.item;
 
 import com.scochilloff.pillowcore.PillowCore;
+import com.scochilloff.pillowcore.item.custom.EightBallItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
@@ -8,6 +9,9 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
+
+    public static final Item EIGHT_BALL = registerItem("eight_ball",
+            new EightBallItem(new FabricItemSettings().maxCount(1)));
 
     public static final Item RAW_TANZANITE = registerItem("raw_tanzanite",
             new Item(new FabricItemSettings()));

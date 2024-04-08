@@ -22,6 +22,7 @@ public class ModItemGroup {
                 entries.add(ModBlocks.TANZANITE_BLOCK);
                 entries.add(ModBlocks.TANZANITE_ORE);
                 entries.add(ModBlocks.DEEPSLATE_TANZANITE_ORE);
+                entries.add(ModItems.EIGHT_BALL);
             })
             .build());
 
